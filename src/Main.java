@@ -6,5 +6,8 @@ public class Main {
         System.out.println("коммит тест 2");
         var dog = 111;
         System.out.println(dog);
+        System.out.println("коммит тест 3" );
+        var cat = 33;
+        System.out.println(cat);
     }
 }
