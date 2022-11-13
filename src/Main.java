@@ -9,5 +9,7 @@ public class Main {
         System.out.println("коммит тест 3" );
         var cat = 33;
         System.out.println(cat);
+        var car = 33;
+        System.out.println(car);
     }
 }
